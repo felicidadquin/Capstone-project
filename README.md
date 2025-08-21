@@ -1,5 +1,7 @@
 # Responsive Single Page Application
 
+Deployed at: https://felicidadquin.github.io/Capstone-project/
+
 ## Overview
 This project is a responsive single-page application (SPA) that showcases an "About Me" section, a dynamic "Project Gallery" driven by JSON content, and a "Contact Form" for user inquiries.
 
