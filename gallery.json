@@ -3,22 +3,22 @@
         {
             "title": "Project One",
             "description": "This is a brief description of Project One.",
-            "image": "https://example.com/images/project-one.jpg"
+            "image": "images/prueba.jpg"
         },
         {
             "title": "Project Two",
             "description": "This is a brief description of Project Two.",
-            "image": "https://example.com/images/project-two.jpg"
+            "image": "images/code.jpg"
         },
         {
             "title": "Project Three",
             "description": "This is a brief description of Project Three.",
-            "image": "https://example.com/images/project-three.jpg"
+            "image": "images/tecleando.jpg"
         },
         {
             "title": "Project Four",
             "description": "This is a brief description of Project Four.",
-            "image": "https://example.com/images/project-four.jpg"
+            "image": "images/code2.jpg"
         }
     ]
 }
