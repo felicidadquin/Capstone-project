@@ -45,3 +45,6 @@ responsive-spa
 
 ## License
 This project is licensed under the MIT License.
+
+## Copilot Assited Development
+This project was developed using GitHub Copilot to accelerate coding tasks and suggest improvements. Copilot provided code completions, documentation snippets and helped streamline the implementation of key features.
